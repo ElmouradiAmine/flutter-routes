@@ -1,6 +1,6 @@
 # layout_app
 
-A new Flutter project.
+Using flutter routes to navigate to different pages for learning purposes.
 
 ## Getting Started
 
